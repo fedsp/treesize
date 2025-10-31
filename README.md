@@ -1,1 +1,1 @@
-"# treesize" 
+Just run the script and that's it.
